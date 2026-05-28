@@ -7,6 +7,6 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: txnisha20/poscast-generator@main
+        uses: txnisha20/podcast_generator@main
 
   
